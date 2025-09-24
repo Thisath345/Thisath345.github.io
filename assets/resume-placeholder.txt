@@ -1,0 +1,28 @@
+# Resume Placeholder
+
+This is a placeholder file for your resume PDF. 
+
+Please replace this file with your actual resume in PDF format.
+
+To do this:
+1. Save your resume as a PDF file
+2. Name it 'resume.pdf'
+3. Replace this file in the assets folder
+
+The resume should include:
+- Your contact information
+- Professional summary
+- Education details
+- Work experience
+- Skills and technologies
+- Projects and achievements
+- References (optional)
+
+Make sure your resume is:
+- Professional and well-formatted
+- Up-to-date with your latest information
+- Tailored for your target industry
+- Error-free with proper grammar and spelling
+- Optimized for ATS (Applicant Tracking Systems)
+
+Once you add your resume PDF, visitors can download it directly from your portfolio website using the "Download Resume" button in the hero section.
