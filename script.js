@@ -52,11 +52,13 @@ window.addEventListener('scroll', () => {
 window.addEventListener('scroll', () => {
     const navbar = document.querySelector('.navbar');
     if (window.scrollY > 50) {
-        navbar.style.background = 'rgba(248, 250, 252, 0.95)';
-        navbar.style.backdropFilter = 'blur(20px)';
+        navbar.style.background = 'linear-gradient(135deg, rgba(37, 99, 235, 0.15) 0%, rgba(59, 130, 246, 0.1) 50%, rgba(147, 197, 253, 0.15) 100%)';
+        navbar.style.backdropFilter = 'blur(25px)';
+        navbar.style.boxShadow = '0 8px 40px rgba(37, 99, 235, 0.3)';
     } else {
-        navbar.style.background = 'rgba(248, 250, 252, 0.9)';
-        navbar.style.backdropFilter = 'blur(15px)';
+        navbar.style.background = 'linear-gradient(135deg, rgba(37, 99, 235, 0.1) 0%, rgba(59, 130, 246, 0.05) 50%, rgba(147, 197, 253, 0.1) 100%)';
+        navbar.style.backdropFilter = 'blur(20px)';
+        navbar.style.boxShadow = '0 4px 30px rgba(37, 99, 235, 0.2)';
     }
 });
 
